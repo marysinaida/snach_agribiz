@@ -448,6 +448,10 @@ form .btn:focus{
     transform: translateX(100px);
     transition: transform 1s;
 }
+.history{
+    justify-content: center;
+    text-align: center;
+}
 
 
 
